@@ -1,0 +1,24 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../freecodecamp"
+	},
+	{
+		"path": "../codewars"
+	},
+	{
+		"path": "../HTMLfrecodecamp"
+	},
+	{
+		"path": "../HTMLfreecodecamp"
+	},
+	{
+		"name": "Basic-HTML-and-HTML5",
+		"path": "../Basic-HTML-and-HTML5"
+	}
+],
+  "settings": {}
+}
